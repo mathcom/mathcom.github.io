@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mr. Jonghwan Choi"
+title                    : "MATHCOMBIO"
 title_separator          : "-"
 name                     : &name "Jonghwan Choi"
 description              : &description "Ph.D. candidate at Yonsei Univeristy"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mr. Jonghwan Choi"
-  avatar           : "profile.png"
+  avatar           : "profile_github.jpg"
   bio              : "Ph.D. candidate at Yonsei University, expert in Computer-aided Drug Design and Bioinformatics"
   location         : "Seoul, Republic of Korea"
   employer         :
